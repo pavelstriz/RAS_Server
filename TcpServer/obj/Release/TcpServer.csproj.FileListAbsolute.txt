@@ -1,0 +1,146 @@
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\obj\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_3\TcpServer\obj\Release\TcpServer.csprojAssemblyReference.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\obj\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4\TcpServer\obj\Release\TcpServer.csprojAssemblyReference.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\obj\Release\TcpServer.csprojAssemblyReference.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_4 - kopie\TcpServer\obj\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\obj\Release\TcpServer.csprojAssemblyReference.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_5\TcpServer\obj\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.UC_LicenseView1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.UC_RemoteCommand1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_6\TcpServer\obj\Release\TcpServer.CommandHelp1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.CommandHelp1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.UC_LicenseView1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.UC_RemoteCommand1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.UC_LicenseAdd1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.UC_LicenseMain1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.csproj.AssemblyReference.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.Blacklist.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.UC_TaskScheduler1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\Microsoft.Win32.TaskScheduler.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\Microsoft.Win32.TaskScheduler.xml
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\bin\Release\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8\TcpServer\obj\Release\TcpServer.csproj.CopyComplete
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\Microsoft.Win32.TaskScheduler.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\Microsoft.Win32.TaskScheduler.xml
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\bin\Release\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.csproj.AssemblyReference.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.Blacklist.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.CommandHelp1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.UC_LicenseAdd1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.UC_LicenseMain1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.UC_LicenseView1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.UC_RemoteCommand1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.UC_TaskScheduler1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.csproj.CopyComplete
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_1_8 - NuGet - TaskScheduler (Server side)\TcpServer\obj\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.Blacklist.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.CommandHelp1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.UC_LicenseAdd1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.UC_LicenseMain1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.UC_LicenseView1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.UC_RemoteCommand1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.UC_TaskScheduler1.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.pdb
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.EditExpiration.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.BlackListAdd.resources
+D:\Projekty\C#\RunAsAdminTool\RunAsAdminTool_2_1\TcpServer\obj\Release\TcpServer.csproj.AssemblyReference.cache
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\bin\Release\TcpServer.exe.config
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\bin\Release\TcpServer.exe
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\bin\Release\TcpServer.pdb
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.csproj.AssemblyReference.cache
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.Blacklist.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.BlackListAdd.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.CommandHelp1.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.EditExpiration.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.UC_LicenseAdd1.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.UC_LicenseMain1.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.UC_LicenseView1.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.MainForm.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.Properties.Resources.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.UC_RemoteCommand1.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.UC_TaskScheduler1.resources
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.csproj.GenerateResource.cache
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.exe
+D:\Projekty\C#\Winforms\RunAsAdminTool\RunAsAdminTool_2_2\TcpServer\obj\Release\TcpServer.pdb
